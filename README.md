@@ -1,6 +1,14 @@
 # RobotFramework VmrunLibrary
 
-VmrunLibrary is a robot framework keyword library that controls a vmware virtual machine via vmrun command.
+VmrunLibrary is a robot framework (http://code.google.com/p/robotframework/) keyword library that controls a vmware virtual machine via vmrun command. It has been tested on linux, but should also work on Windows.
+
+## Prerequisites
+
+* VMware workstation 6.0 or higher
+
+## Installation
+
+## Tests
 
 ## License
 
