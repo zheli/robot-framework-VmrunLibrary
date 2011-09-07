@@ -12,5 +12,5 @@ VmrunLibrary is a robot framework (http://code.google.com/p/robotframework/) key
 
 ## License
 
-Copyright (C) 2011 LVS AB (Lavasoft)
+Copyright (C) 2011 LVS Software AB (Lavasoft)
 Distributed under the Apache License 2.0
