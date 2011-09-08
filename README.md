@@ -5,8 +5,14 @@ VmrunLibrary is a robot framework (http://code.google.com/p/robotframework/) key
 ## Prerequisites
 
 * VMware workstation 6.0 or higher
+* Robot Framework 2.5.7 or higher
+* Python 2.6 or higher
 
 ## Installation
+
+You can install this package using command:
+
+    python setup.py install
 
 ## Tests
 
